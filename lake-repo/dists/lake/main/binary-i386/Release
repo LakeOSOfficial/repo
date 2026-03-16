@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: LakeOS
+Label: LakeOS
+Architecture: i386
+Description: Official LakeOS Repository

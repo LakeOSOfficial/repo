@@ -1,0 +1,47 @@
+Origin: LakeOS
+Label: LakeOS
+Suite: stable
+Codename: lake
+Date: Mon, 16 Mar 2026 12:12:00 UTC
+Architectures: amd64 i386
+Components: main system
+Description: Official LakeOS Repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ e4e0fbd5d881eff8d3de699ae250fe43 121 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ e5639d5329919ed76b55ea9b422ea018 120 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 system/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 system/binary-amd64/Packages.gz
+ aa84f241fd11b86501b3c2c80d63b2fa 123 system/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 system/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 system/binary-i386/Packages.gz
+ ca9fe20f58116e0115cef8284dffffe8 122 system/binary-i386/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 46afd15d0db3dafb639567ea5d5ffce0cc87af68 121 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ e6903ea204f91ec9362eab8f2367799187ca92b5 120 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 system/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 system/binary-amd64/Packages.gz
+ b9b645bc8d14a8179c7dbcc108057b9595dfc3d5 123 system/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 system/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 system/binary-i386/Packages.gz
+ 3d45f6e9f704c60a9738f39faf50266c74393879 122 system/binary-i386/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ fb2f1574098267374db9c23f3b0746ae02d229b4e8904a66de4c6530560e9e65 121 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 37501f56b866129723330389dce952e3f441ed0e5e8dfe841036422a692e8c83 120 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 system/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 system/binary-amd64/Packages.gz
+ 28ee598c99e2c87c288fb278ce452efb4b5772aa78ca21db9ab61a2016108be4 123 system/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 system/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 system/binary-i386/Packages.gz
+ 3a3027a05d8a8dd4463712da7e80cefa0d2bd3f01a072a0251dbdd75468ff4dd 122 system/binary-i386/Release
