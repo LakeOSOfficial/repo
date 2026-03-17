@@ -1,8 +1,6 @@
 Origin: LakeOS
-Label: LakeOS
-Suite: stable
+Label: LakeOS-Repo
 Codename: lake
-Architectures: amd64 i386
-Components: main system
-Description: Official LakeOS Repository
-SignWith: C1BBB77B9E54A9C8
+Architectures: amd64
+Components: main
+SignWith: 044B76AD2223F1D9
